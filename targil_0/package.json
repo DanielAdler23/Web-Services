@@ -1,0 +1,12 @@
+{
+  "name": "targil0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hotel_ws.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "daniel",
+  "license": "ISC"
+}
